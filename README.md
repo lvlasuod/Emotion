@@ -19,9 +19,9 @@ It is considered one of the latest CNN models that gives reduced error when trai
 
 The layers used in our model are: Conv2D, BatchNormalization, Input Layer(Activation Relu), Maxpool2D layer, AveragePooling2D, Flatten and Dense(Activation softmax) layer.
 
-![home]([http://url/to/img.png](https://github.com/lvlasuod/Emotion/blob/master/home.png))
+![home](https://github.com/lvlasuod/Emotion/blob/master/home.png)
 
-![Predicted]([http://url/to/img.png](https://github.com/lvlasuod/Emotion/blob/master/Predicted.jpeg))
+![Predicted](https://github.com/lvlasuod/Emotion/blob/master/Predicted.jpeg)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
