@@ -5,7 +5,7 @@ A Flutter project uses CNN ML model to identify emotion of a human face.
 ## Technique Demonstration
 
 Methodology:
-We have chosen three optimizers and three learning rates for each of them. We have trained our model on each of their combinations and analysed the results obtained.
+We have chosen three optimizers and three learning rates for each of them. We have trained our model on each of their combinations and analysed the results obtained. Optimizers are ADAM, SGD and RMSProp while learning rates are 0.01, 0.03, and 0.1. 
  
  
 Data set:
