@@ -2,6 +2,9 @@
 
 A Flutter project uses CNN ML model to identify emotion of a human face.
 
+Neural Netwrok Model Training Repository
+- [humanface_emotions_detection](https://github.com/umar51/humanface_emotions_detection)
+
 ## Technique Demonstration
 
 Methodology:
